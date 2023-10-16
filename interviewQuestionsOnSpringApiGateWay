@@ -1,0 +1,10 @@
+What is Spring API Gateway, and why is it used?
+How does Spring API Gateway differ from a traditional proxy server?
+What are the main components of Spring API Gateway?
+Can you explain how routing works in Spring API Gateway?
+What is service discovery, and how does Spring API Gateway use it?
+How can you implement authentication and authorization in Spring API Gateway?
+What is load balancing, and how does Spring API Gateway handle it?
+How can you configure Spring API Gateway for cross-origin resource sharing (CORS)?
+What are some of the benefits of using Spring API Gateway in a microservices architecture?
+Can you mention some alternatives to Spring API Gateway?
