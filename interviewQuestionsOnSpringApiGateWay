@@ -8,3 +8,5 @@ What is load balancing, and how does Spring API Gateway handle it?
 How can you configure Spring API Gateway for cross-origin resource sharing (CORS)?
 What are some of the benefits of using Spring API Gateway in a microservices architecture?
 Can you mention some alternatives to Spring API Gateway?
+Mention some benefits and drawbacks of an API Gateway
+Explain what is the API Gateway pattern
